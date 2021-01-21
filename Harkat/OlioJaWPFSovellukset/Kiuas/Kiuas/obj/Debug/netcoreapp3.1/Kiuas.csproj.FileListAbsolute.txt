@@ -1,0 +1,13 @@
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.exe
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.deps.json
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.runtimeconfig.json
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.runtimeconfig.dev.json
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.dll
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.pdb
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.csprojAssemblyReference.cache
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.AssemblyInfoInputs.cache
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.AssemblyInfo.cs
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.csproj.CoreCompileInputs.cache
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.dll
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.pdb
+C:\Users\lutzm\source\repos\Marius7620\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSovellukset\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.genruntimeconfig.cache

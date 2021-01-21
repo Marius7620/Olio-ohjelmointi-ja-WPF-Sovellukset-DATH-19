@@ -6,7 +6,23 @@ namespace Harjoitus1
     {
         static void Main(string[] args)
         {
-            
+            Ajoneuvo auto = new Ajoneuvo();
+            auto.Nimi = "Toyota";
+            auto.Nopeus = 160;
+            auto.Renkaat = 4;
+
+            auto.TulostaData();
+
+            string autonTiedot = auto.ToString();
+            Console.WriteLine(autonTiedot);
+
+            Ajoneuvo mopo = new Ajoneuvo();
+            mopo.Nimi = "Rieju";
+            mopo.Nopeus = 55;
+            mopo.Renkaat = 2;
+
+            mopo.TulostaData();
+            Console.Write(mopo.ToString());
         }
 
     }

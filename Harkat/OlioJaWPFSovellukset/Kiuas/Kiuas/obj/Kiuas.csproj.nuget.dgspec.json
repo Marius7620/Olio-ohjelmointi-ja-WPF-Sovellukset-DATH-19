@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lutzm\\source\\repos\\Marius7620\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioJaWPFSovellukset\\Harjoitus1\\Harjoitus1.csproj": {}
+    "C:\\Users\\lutzm\\source\\repos\\Marius7620\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioJaWPFSovellukset\\Kiuas\\Kiuas\\Kiuas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lutzm\\source\\repos\\Marius7620\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioJaWPFSovellukset\\Harjoitus1\\Harjoitus1.csproj": {
+    "C:\\Users\\lutzm\\source\\repos\\Marius7620\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioJaWPFSovellukset\\Kiuas\\Kiuas\\Kiuas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lutzm\\source\\repos\\Marius7620\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioJaWPFSovellukset\\Harjoitus1\\Harjoitus1.csproj",
-        "projectName": "Harjoitus1",
-        "projectPath": "C:\\Users\\lutzm\\source\\repos\\Marius7620\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioJaWPFSovellukset\\Harjoitus1\\Harjoitus1.csproj",
+        "projectUniqueName": "C:\\Users\\lutzm\\source\\repos\\Marius7620\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioJaWPFSovellukset\\Kiuas\\Kiuas\\Kiuas.csproj",
+        "projectName": "Kiuas",
+        "projectPath": "C:\\Users\\lutzm\\source\\repos\\Marius7620\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioJaWPFSovellukset\\Kiuas\\Kiuas\\Kiuas.csproj",
         "packagesPath": "C:\\Users\\lutzm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lutzm\\source\\repos\\Marius7620\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioJaWPFSovellukset\\Harjoitus1\\obj\\",
+        "outputPath": "C:\\Users\\lutzm\\source\\repos\\Marius7620\\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\\Harkat\\OlioJaWPFSovellukset\\Kiuas\\Kiuas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lutzm\\AppData\\Roaming\\NuGet\\NuGet.Config",
