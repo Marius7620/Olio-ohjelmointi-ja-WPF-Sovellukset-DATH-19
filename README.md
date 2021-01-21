@@ -1,4 +1,5 @@
 # Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19
+Marius Lutz
 
 ## Ohjeet
 
